@@ -1,0 +1,10 @@
+<annotation>
+  <folder>training</folder>
+  <filename>0707.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>683</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+</annotation>

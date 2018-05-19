@@ -1,0 +1,22 @@
+<annotation>
+  <folder>training</folder>
+  <filename>0128.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>413</width>
+    <height>589</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>219</ymin>
+      <xmax>240</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+</annotation>
